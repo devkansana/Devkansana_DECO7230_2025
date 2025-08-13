@@ -39,15 +39,16 @@ XR Front-End on Existing Apps (e.g., Odoo)
 The XR experience is layered over existing systems like Odoo, connecting immersive interactions to the back-end architecture workflow (project data, documents, approvals).
 
 
-Prototye - 
+Prototype - 
 
-I am testing what features users need when they test out the product in XR. What details they look for when they buy products in reallife so i can immitate similar details on XR experience.
-Methodology - I am using Paper Prototype and read aloud methods. I am trying to collect information by kniwung what indformation do they need when they are lookinfg for any new materials for their dream house
-I have prototyped the sample and materials screen for thius testing. The screen shows the m sample from the supplier and the user is selectiong or choosing the materials in XR. They can see the details of materials like price colours variations in real time in 3d model of their future house istead of traditional way of going at different stores.
+I am testing what features users need when they try out the product in XR, focusing on the kind of details they usually look for when buying products in real life. My aim is to replicate those same details in the XR experience so it feels natural and useful.
 
-The architect clicks on oodoo app for CRM platform. It clics on projecrts and on going, Wgere  he connects the supplier on the same platform. Then he selects the product like tiles. They selects the room/ model  or chosses the sample model. Now using VR they can see the qoutes of different materaials just by interaction in space 
+Methodology – I am using a paper prototype and the Read-Aloud method. This helps me collect insights about what information people need when searching for new materials for their dream house.
+
+For this test, I have prototyped a “Sample and Materials” screen. This screen shows material samples from a supplier, and the user can select or choose these materials in XR. They can view details like price, colour variations, and texture in real time on a 3D model of their future house — instead of visiting different physical stores.
+
+The workflow also connects with the Odoo CRM platform. For example, the architect logs into Odoo, goes to “Projects” and selects an ongoing project. They can then connect with a supplier on the same platform, select a product such as tiles, and assign it to a specific room or model. In VR, they can instantly see quotes and compare materials simply by interacting in the virtual space.
 
 
-Testing 
 
 
