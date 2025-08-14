@@ -50,5 +50,17 @@ For this test, I have prototyped a “Sample and Materials” screen. This scree
 The workflow also connects with the Odoo CRM platform. For example, the architect logs into Odoo, goes to “Projects” and selects an ongoing project. They can then connect with a supplier on the same platform, select a product such as tiles, and assign it to a specific room or model. In VR, they can instantly see quotes and compare materials simply by interacting in the virtual space.
 
 
+Week 3 
+
+The assessment 2 introduced. 
+Prototype -  Use Basic gestures 
+Submit the testing plan before the assessment - week 5
+
+Reference 
+
+Testing Plan Development
+Unity Development  
+
+
 
 
