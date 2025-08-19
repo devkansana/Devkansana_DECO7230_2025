@@ -64,5 +64,10 @@ Testing Plan Development
 Unity Development  
 
 
+Week 4 ( Applied Class  ) 
+
+The Following Script how the player reacts with Enviroment like Proximity Highlighter Script, That could be audio reaction, with other players, grabbing and throwing etc.
+
+
 
 
