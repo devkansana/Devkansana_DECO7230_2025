@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+
+# Ignore temp directory and its contents
+/temp/
+
+# Ignore all files named secrets.txt anywhere in the repo
+secrets.txt
+
+# Ignore build directory
+/build/
