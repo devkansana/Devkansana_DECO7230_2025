@@ -29,14 +29,22 @@ My focus is on exploring Mixed Reality, which enhances spatial recognition in ma
 **Tasks**:  
 
 1. Virtual Assembly and Disassembly
-Users can virtually build or dismantle construction components using various materials within an XR environment. This task helps them understand how structural parts fit together, identify potential issues in assembly, and learn the sequence of construction steps interactively. This supports designers and trainees in visualizing real-world construction processes without physical constraints.
+
+   Users can virtually build or dismantle construction components using various materials within an XR environment. This task helps them understand how structural/Materials parts fit together/ integration of materails, identify potential complexity in assembly, and learn the sequence of construction steps interactively. 
+   This supports designers and trainees in visualizing real-world construction processes without physical constraints.
 
 
 2. Sectional Study of Material
-This interaction allows users to explore detailed sectional views of materials in XR, revealing internal structures, composition layers, and performance characteristics. Users can manipulate the material sections to gain deeper insight into how each layer contributes to the material’s functionality, aiding informed decision-making and educating apprentices on material science fundamentals.
+   This interaction allows users to explore sectional views of materials in XR, revealing internal structures, composition layers, and performance characteristics. 
+   Users can manipulate the material sections to gain deeper insight into how each layer contributes to the material’s functionality, aiding informed decision-making and educating apprentices on material science fundamentals.
 
 3. Project Documentation and Coordination Task in XR
-The Project Documentation and Coordination task in Mixed Reality begins with the user entering a virtual construction workspace using an MR headset, where they can access project files and team contacts. When a problem arises, such as a delay in material delivery, the user receives a notification alerting them to the issue. They then review relevant project documents and schedules to understand the current situation. Next, the user communicates the problem to the team or suppliers using voice commands or hand controls within the MR environment. Afterward, they update the project schedule to reflect the delay using simple, interactive tools like drag-and-drop timelines. Once the changes are saved, the user sends confirmation messages to relevant team members. Finally, the user exits the MR workspace, having practiced effective documentation, communication, and coordination skills in a realistic virtual setting.
+   The users enters the oddo dashboard in MR. They view the notification of delayed documentation. 
+
+
+   The Project Documentation and Coordination task in Mixed Reality begins with the user entering a virtual workspace using an MR headset, where they can access project files and team contacts.
+   When a problem arises, such as a delay in material delivery, the user receives a notification alerting them to the issue. They then review relevant project documents and schedules to understand the current situation.
+   Next, the user communicates the problem to the team or suppliers using voice commands or hand controls within the MR environment. Afterward, they update the project schedule to reflect the delay using simple, interactive tools like drag-and-drop timelines. Once the changes are saved, the user sends confirmation messages to relevant team members. Finally, the user exits the MR workspace, having practiced effective documentation, communication, and coordination skills in a realistic virtual setting.
 
 ---
 
