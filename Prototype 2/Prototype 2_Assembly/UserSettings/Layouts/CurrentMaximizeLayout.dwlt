@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 3119
+  controlID: 16
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -515,15 +515,15 @@ MonoBehaviour:
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
-  m_2DMode: 1
+  m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.0045046806, y: 0.01454058, z: 0.28026688}
+    m_Target: {x: -0.12492606, y: 0.77578515, z: 0.24158071}
     speed: 2
-    m_Value: {x: -0.004504439, y: 0.014540634, z: 0.2802676}
+    m_Value: {x: -0.12492606, y: 0.77578515, z: 0.24158071}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -551,7 +551,7 @@ MonoBehaviour:
       m_Size: {x: 0, y: 0}
     yGrid:
       m_Fade:
-        m_Target: 0
+        m_Target: 1
         speed: 2
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
@@ -559,9 +559,9 @@ MonoBehaviour:
       m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
-        m_Target: 1
+        m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -569,17 +569,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: 0.018800126, y: 0.66524315, z: 0.016761534, w: -0.7462098}
     speed: 2
-    m_Value: {x: -0.000000006657127, y: 0.00000006869945, z: -0.000000016071727, w: -0.99999994}
+    m_Value: {x: 0.018800126, y: 0.6652431, z: 0.016761532, w: -0.7462098}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 1.3693522
     speed: 2
-    m_Value: 0.8660255
+    m_Value: 1.3693522
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1.0030099
     m_SpeedNormalized: 0.49899995
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 3120
+  controlID: 17
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -659,7 +659,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 3121
+  controlID: 18
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -779,8 +779,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -793,18 +793,18 @@ MonoBehaviour:
       y: 21
       width: 764
       height: 203
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 382, y: 101.5}
+    m_Scale: {x: 5, y: 5}
+    m_Translation: {x: 382, y: 101.49989}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -382
-      y: -101.5
-      width: 764
-      height: 203
+      x: -76.4
+      y: -20.299978
+      width: 152.8
+      height: 40.6
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1528, y: 448}
@@ -838,7 +838,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 3070
+  controlID: 64
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -859,8 +859,8 @@ MonoBehaviour:
     y: 0
     width: 297
     height: 499
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -904,10 +904,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 96}
-      m_SelectedIDs: 80b2ffff
-      m_LastClickedID: -19840
-      m_ExpandedIDs: ae9afffff8faffff14fbffff18fbffff1afbffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 38cafcff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1005,7 +1005,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 0
     m_Folders:
-    - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Materials
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1015,17 +1015,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype
     2/Prototype 2_Assembly
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 548}
-    m_SelectedIDs: b26b0200
-    m_LastClickedID: 158642
-    m_ExpandedIDs: 00000000421d01000a590200c867020086c2030000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: eafc0200
+    m_LastClickedID: 195818
+    m_ExpandedIDs: 00000000eafc020000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1054,7 +1054,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000421d010000ca9a3b
+    m_ExpandedIDs: 00000000eafc0200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1080,10 +1080,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 80b2ffff
-    m_LastClickedInstanceID: -19840
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 
+    m_ExpandedInstanceIDs: 00000000
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1091,7 +1091,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 103.5}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 182.5

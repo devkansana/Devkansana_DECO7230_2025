@@ -304,7 +304,9 @@
           },
           {
             "name": "LightProbes",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -422,13 +424,17 @@
           },
           {
             "name": "RectTransform",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "ReflectionProbe",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -562,10 +568,8 @@
           },
           {
             "name": "Transform",
-            "scenes": [
-              "Assets/Scenes/SampleScene.unity"
-            ],
-            "dependencyType": 0,
+            "scenes": [],
+            "dependencyType": 1,
             "icon": null
           },
           {
@@ -1498,6 +1502,12 @@
             "icon": null
           },
           {
+            "name": "TextMesh",
+            "scenes": [],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "Required by IMGUI Module",
             "scenes": [],
             "dependencyType": 2,
@@ -1534,7 +1544,9 @@
         "dependencies": [
           {
             "name": "Canvas",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -1546,7 +1558,9 @@
           },
           {
             "name": "CanvasRenderer",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },

@@ -34,6 +34,22 @@ My focus is on exploring Mixed Reality, which enhances spatial recognition in ma
    This supports designers and trainees in visualizing real-world construction processes without physical constraints.
 
 
+There is a new Material that has been launched "A SUSTAINABLE BUILDING MATERIAL SOLUTION FROM EGGSHELLS"
+
+
+For the test - 
+
+A plate with protudes blocks and blue and pink blocks are shown 
+There are two things interactable and interactor
+
+https://thedesignfiles.net/2020/09/the-best-building-materials-for-a-sustainable-home
+
+
+
+
+
+
+
 2. Sectional Study of Material
    This interaction allows users to explore sectional views of materials in XR, revealing internal structures, composition layers, and performance characteristics. 
    Users can manipulate the material sections to gain deeper insight into how each layer contributes to the material’s functionality, aiding informed decision-making and educating apprentices on material science fundamentals.

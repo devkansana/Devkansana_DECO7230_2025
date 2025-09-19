@@ -17,7 +17,7 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashScreen: 0
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -145,6 +145,8 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 11400000, guid: 7f1c88650316d427385147f66cdde16b, type: 2}
   - {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  - {fileID: -8622629840424163496, guid: 636a7ea46c8e245648ab7399bce1b6aa, type: 2}
+  - {fileID: 6180114424246640689, guid: 1a998064f03f047269d0bb3f7b371b27, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -427,7 +429,7 @@ PlayerSettings:
   - m_BuildTarget: LuminSupport
     m_GraphicsJobs: 0
   - m_BuildTarget: AndroidPlayer
-    m_GraphicsJobs: 0
+    m_GraphicsJobs: 1
   - m_BuildTarget: WebGLSupport
     m_GraphicsJobs: 0
   m_BuildTargetGraphicsJobMode:
@@ -436,6 +438,8 @@ PlayerSettings:
   - m_BuildTarget: XboxOnePlayer
     m_GraphicsJobMode: 0
   - m_BuildTarget: MacStandaloneSupport
+    m_GraphicsJobMode: 1
+  - m_BuildTarget: AndroidPlayer
     m_GraphicsJobMode: 1
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: AndroidPlayer

@@ -6,10 +6,11 @@ My proposal focuses on transforming how architectural offices explore and select
 
 ### Identify the Application
 
-Odoo is an open-source platform that helps architecture offices manage projects, materials, clients, and suppliers in one place, on both desktop and mobile applications.  
+Oddo is a Customer Relationship Management (CRM) platform widely adopted in the construction industry for the management of project timelines, team communication, and supplier onboarding procedures. While the supplier onboarding feature remains nascent, its potential to facilitate material exploration among stakeholders is promising. Effective communication with architects and builders regarding materials procurement presents enduring challenges; the process of physically delivering samples and coordinating their collection is notably labor-intensive. Lean construction methodology, as outlined in contemporary research, supports the identification, reduction, and optimization of such processes to enhance operational efficiency.
 
-Material sourcing is slow and inefficient due to manual sample collection, limited visualization, poor communication, and outdated catalogs. Adding XR to Odoo could let architects preview materials in real spaces digitally, speeding decisions, reducing errors, and improving workflow.
+Presently, the Australian construction industry is confronting three critical challenges, as identified by the Construction Industry Capability Team (CICT): a lack of workforce diversity, particularly with female representation below 12% and less than 2% of on-site roles being filled by women; difficulties in talent attraction and retention; and an ageing workforce with more than 40% expected to retire within 15 years. These factors collectively constrain the industry's capacity to deliver projects and foster sustainable growth.
 
+This project seeks to investigate strategies for attracting new entrants, especially youth, to the construction sector and for enriching pedagogical approaches to industry education. Oddo’s online interactive modules, allowing for detailed material exploration (including sectional views), may serve as valuable tools for engaging designers and facilitating collaborative initiatives, such as during the AMW 2025 event. Additionally, Oddo could function as an educational resource in schools, enabling students to experience the material library interactively and fostering curiosity—ultimately helping to inspire and uplift girls’ participation in skilled trades.
 ---
 
 ### Task Identification
