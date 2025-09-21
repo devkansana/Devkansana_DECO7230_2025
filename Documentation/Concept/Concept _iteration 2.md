@@ -1,152 +1,74 @@
 # Project Theme
 
-My proposal focuses on transforming how architectural offices explore and select material samples through an Extended Reality (XR) experience.
+Odoo-Enabled Construction Education Platform for Workforce Diversity
 
 ---
 
-### Identify the Application
+## Problem Context
 
-Oddo is a Customer Relationship Management (CRM) platform widely adopted in the construction industry for the management of project timelines, team communication, and supplier onboarding procedures. While the supplier onboarding feature remains nascent, its potential to facilitate material exploration among stakeholders is promising. Effective communication with architects and builders regarding materials procurement presents enduring challenges; the process of physically delivering samples and coordinating their collection is notably labor-intensive. Lean construction methodology, as outlined in contemporary research, supports the identification, reduction, and optimization of such processes to enhance operational efficiency.
+The Australian construction industry faces a critical confluence of challenges that threaten its long-term sustainability and growth capacity. **Female representation remains significantly below 12% across the industry, with less than 2% of on-site roles filled by women**, while simultaneously confronting an **aging workforce crisis with over 40% expected to retire within the next 15 years**. These demographic constraints, coupled with persistent difficulties in **talent attraction and retention**, collectively limit the industry's ability to deliver projects and foster sustainable development.[sydneybuildexpo+5](https://www.sydneybuildexpo.com/women-in-construction-resource-library/8-women-construction-statistic-australia-updated-2024)
 
-Presently, the Australian construction industry is confronting three critical challenges, as identified by the Construction Industry Capability Team (CICT): a lack of workforce diversity, particularly with female representation below 12% and less than 2% of on-site roles being filled by women; difficulties in talent attraction and retention; and an ageing workforce with more than 40% expected to retire within 15 years. These factors collectively constrain the industry's capacity to deliver projects and foster sustainable growth.
+Parallel to these workforce challenges, the industry grapples with operational inefficiencies that lean construction methodology seeks to address. Traditional material procurement processes, particularly the **labor-intensive coordination of physical sample delivery and collection between suppliers, architects, and builders**, represent significant waste in the construction value chain. These inefficiencies not only increase project costs but also create barriers to effective stakeholder collaboration and material exploration.[ube+1](https://www.ube.ac.uk/whats-happening/articles/what-is-lean-construction/)
 
-This project seeks to investigate strategies for attracting new entrants, especially youth, to the construction sector and for enriching pedagogical approaches to industry education. Oddo’s online interactive modules, allowing for detailed material exploration (including sectional views), may serve as valuable tools for engaging designers and facilitating collaborative initiatives, such as during the AMW 2025 event. Additionally, Oddo could function as an educational resource in schools, enabling students to experience the material library interactively and fostering curiosity—ultimately helping to inspire and uplift girls’ participation in skilled trades.
----
+
+
+## Tech Foundation
+
+Odoo, a comprehensive Customer Relationship Management (CRM) platform, has gained **widespread adoption in the construction industry** for managing project timelines, team communication, and supplier onboarding procedures. The platform's existing infrastructure supports three critical touchpoints: suppliers uploading material specifications, builders managing project schedules, and emerging supplier onboarding capabilities that hold **promising potential for facilitating material exploration among industry stakeholders**.[odooexpress+2](https://www.odooexpress.com/industries/construction)youtube
+
+While Odoo's supplier onboarding feature remains in its nascent stages, its digital architecture provides an ideal foundation for addressing both operational inefficiencies and educational engagement challenges simultaneously.[odoo-bs](https://www.odoo-bs.com/real-estate-construction)
+
+
+
+## Educational Intervention Opportunity
+
+This project investigates how **Odoo's interactive material exploration capabilities can serve dual purposes**: streamlining industry operations while functioning as an educational gateway to attract new entrants, particularly youth and underrepresented groups, to construction sectors. The platform's potential extends beyond professional applications to serve as an **innovative educational resource in schools**, enabling students to experience material libraries interactively and fostering curiosity about construction careers.[burgerconsulting+1](https://burgerconsulting.com/building-a-diverse-future-embracing-inclusion-in-the-construction-industry/)
+
+The integration of this technology-enabled educational approach aligns with events such as **Australian Manufacturing Week (AMW) 2025**, where **collaborative initiatives and educational outreach programs** demonstrate industry innovation to diverse audiences. By leveraging Odoo's online interactive modules, the platform can facilitate detailed material exploration experiences that bridge the gap between theoretical classroom learning and practical industry application.[ieomsociety+4](http://ieomsociety.org/ieom2017/papers/183.pdf)
+
+
+
+## Research Objectives
+
+This study seeks to develop and validate a framework that transforms **Odoo's existing construction management capabilities into an educational tool using XR **designed to inspire and attract diverse talent to the industry. The research specifically aims to address workforce diversity challenges by creating engaging, technology-mediated experiences that **help inspire and uplift girls' participation in skilled trades** while simultaneously optimizing material exploration processes for existing industry professionals.
+
+Through this dual-purpose approach, the project contributes to both immediate operational improvements via lean construction waste reduction and long-term industry sustainability through enhanced educational engagement and diversity initiatives.[digitalcommons.fiu+1](https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=1002&context=succeed)
+
+
+
+## User Groups
+
+The XR experiences are designed for three primary user groups:
+
+- **High School Students (Ages 16–18):** Students (particularly female students) exploring construction careers
+
+- **Construction Professionals:** Builders, architects, and suppliers interested in streamlined  modules that simulate real-world workflows, support sustainable material exploration 
+
+  
 
 ### Task Identification
 
-The current task on the platform involves:  
-- Manually collecting materials at the office  
-- Adding them to the task sheet on Odoo  
-- Onboarding clients and builders  
-- Scheduling appointments  
-- Presenting materials across platforms  
-- Updating builders and contractors  
-- Returning materials to suppliers [1]  
+------
 
-My focus is on exploring Mixed Reality, which enhances spatial recognition in material exploration and visualization.  
+#### Task 1: Virtual Assembly and Disassembly
 
-**Tasks**:  
+Users engage in **virtual construction component assembly and disassembly** within an XR environment, utilizing various materials to understand structural integration and assembly complexity. This interaction enables participants to learn construction sequences interactively, supporting both designers and trainees in visualizing real-world processes without physical constraints.
 
-1. Virtual Assembly and Disassembly
+#### Task 2: Sectional Study of Materials
 
-   Users can virtually build or dismantle construction components using various materials within an XR environment. This task helps them understand how structural/Materials parts fit together/ integration of materails, identify potential complexity in assembly, and learn the sequence of construction steps interactively. 
-   This supports designers and trainees in visualizing real-world construction processes without physical constraints.
+This XR interaction allows users to explore **detailed sectional views of construction materials**, revealing internal structures, composition layers, and performance characteristics. Users manipulate material sections to gain deeper insights into how each layer contributes to overall functionality, supporting informed decision-making and educating participants on **fundamental material principles**.
 
+This task directly addresses the identified challenge of **material exploration accessibility**, providing immersive alternatives to traditional physical sampling processes while enhancing educational value through interactive visualization.
 
-There is a new Material that has been launched "A SUSTAINABLE BUILDING MATERIAL SOLUTION FROM EGGSHELLS"
+#### Task 3: Project Documentation and Coordination
 
+The final task integrates **Odoo dashboard functionality within a Mixed Reality environment**, simulating real-world project management scenarios. Users enter the virtual workspace through MR headsets, accessing project files, team contacts, and notification systems that mirror professional construction management workflows.
 
-For the test - 
-
-A plate with protudes blocks and blue and pink blocks are shown 
-There are two things interactable and interactor
-
-https://thedesignfiles.net/2020/09/the-best-building-materials-for-a-sustainable-home
-
-
-
-
-
-
-
-2. Sectional Study of Material
-   This interaction allows users to explore sectional views of materials in XR, revealing internal structures, composition layers, and performance characteristics. 
-   Users can manipulate the material sections to gain deeper insight into how each layer contributes to the material’s functionality, aiding informed decision-making and educating apprentices on material science fundamentals.
-
-3. Project Documentation and Coordination Task in XR
-   The users enters the oddo dashboard in MR. They view the notification of delayed documentation. 
-
-
-   The Project Documentation and Coordination task in Mixed Reality begins with the user entering a virtual workspace using an MR headset, where they can access project files and team contacts.
-   When a problem arises, such as a delay in material delivery, the user receives a notification alerting them to the issue. They then review relevant project documents and schedules to understand the current situation.
-   Next, the user communicates the problem to the team or suppliers using voice commands or hand controls within the MR environment. Afterward, they update the project schedule to reflect the delay using simple, interactive tools like drag-and-drop timelines. Once the changes are saved, the user sends confirmation messages to relevant team members. Finally, the user exits the MR workspace, having practiced effective documentation, communication, and coordination skills in a realistic virtual setting.
+The scenario begins with users receiving **delay notifications for material delivery**, requiring them to review project documents, communicate with team members through voice commands or hand controls, and update project schedules using **interactive drag-and-drop timelines**. This task develops critical **documentation, communication, and coordination skills** within a realistic virtual setting, bridging educational simulation with professional practice requirements.
 
 ---
 
 ### Affordance in My Design Concept
-
-In my concept, users can interact with materials much like they do in the real world by pointing, choosing, dragging, zooming, and handling them as if they were physical objects.  
-
-- Architects could use proxemic maps (see figure 1) to explore room layouts.  
-- Clients could view and compare materials in context via dashboards.  
-
-**Assumptions**:  
-- Hand-based interaction offers a natural, gesture-based interface for grabbing, moving, and inspecting virtual materials.  
-- It recreates a tangible feel, despite objects being virtual.  
-- Testing should explore user scaling preferences, hand vs controller interaction, and expectations for multi‑user collaboration (avatars or otherwise).  
-
----
-
-### Design Visuals
-
-To better understand the design, I explored how the experience should look and feel. Based on Week 2 studio activities, I worked on storyboarding for Task 1: *Virtual Material Exploration and Comparison* (see figure 2).
-
----
-
-### Assumptions
-
-1. Users will primarily use hand gestures for interacting with virtual objects.  
-2. Users will use a controller for navigating or interacting with on‑screen elements.  
-3. Users expect the ability to view materials side‑by‑side for comparison.  
-
----
-
-### Engagement with Ideation Process
-
-- **Scenario 1** (see figure 4)  
-- **Scenario 2** (see figure 5)  
-- **Scenario 3** (see figure 6)  
-- **Figma Exploration** (see figure 7)  
-
----
-
-### Initial Testing Plan – Rapid Prototype
-
-**Objectives**  
-1. Test virtual material exploration and comparison tasks.  
-2. Understand how users interact with materials (point, drag, zoom, rotate).  
-
-**Methodology**  
-1. Type: Rapid prototyping with low-fidelity mockups  
-2. Approach: Think‑Aloud  
-3. Participants: Shawn and Cimi  
-4. Prototype: Paper sketches + cardboard models + basic visuals  
-
-**Data to Collect**  
-- Qualitative: User comments, observed pain points, confusion moments (Think Aloud + observation notes).  
-
-**Script**  
-1. Explain objective (<1 min)  
-2. Task 1 – Select a virtual material and inspect it  
-3. Task 2 – Compare it with another material using the dashboard  
-4. Task 3 – Place the material in a virtual room  
-5. Wrap-up – Ask for feedback, suggestions, and biggest frustrations  
-
----
-
-### Results
-
-1. Both users naturally used their hands to explore the virtual object.  
-   - Shows hand-based interaction feels intuitive and matches expectations.  
-2. When asked to scale the object, users looked for an on‑screen option.  
-   - Indicates some confusion; users expect scaling controls in the interface rather than gestures alone.  
-3. Some users asked if they needed a larger physical room for the model to work.  
-   - Suggests concerns about spatial requirements for MR and highlights the need for optimization across different room sizes. (see figures 7–9)  
-
----
-
-### Figures
-
-- Figure 1: Proxemic maps. Source: Monash University  
-- Figure 2: Storyboarding. Source: Author  
-- Figure 3: Iterations for dashboards. Source: Author  
-- Figure 4: 3D object material exploration. Source: Author  
-- Figure 5: Product exploration. Source: Author  
-- Figure 6: Sketching ideas in real world. Source: Author  
-- Figure 7: User Testing. Source: Author  
-- Figure 8: User Testing. Source: Author  
-- Figure 9: User Testing. Source: Author  
 
 ---
 
@@ -158,16 +80,6 @@ To better understand the design, I explored how the experience should look and f
 
 
 
-Material Visualisation for suppliers in MR for Desigbners to explore the different materials at kiosk
-Contarctors can use for the 
-
-There are lot of problems in materials places on sites with unskilled labours so that cost materials in expesive issues and safety hazards. 
-
-In particular, prevention through design (PtD) integrates safety aspects from the early design stage of projects [5]
-The lean construction methodology encourages process identification, reduction, and optimization [6].
-
-Virtual reality (VR) enables the creation of an interactive environment for cognitive learning where users can examine virtual but realistic site environments, identify hazards, and perceive the direct consequences of their actions without exposing themselves to the risks of reality
 
 
-In addition, inadequate use of personal protective equipment (PPE) and handouts and low interest in reading safety manuals contribute to accidents.
 
