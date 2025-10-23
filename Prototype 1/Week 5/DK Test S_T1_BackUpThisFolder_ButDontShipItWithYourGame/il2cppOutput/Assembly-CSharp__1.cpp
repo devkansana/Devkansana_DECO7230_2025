@@ -582,7 +582,7 @@ struct WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_marshaled_com : 
 	float ___m_Seconds;
 };
 #pragma pack(push, tp, 1)
-struct __StaticArrayInitTypeSizeU3D1518_t922A1AF6C5F9BAA092321CE07487D0483A2447F2 
+struct __StaticArrayInitTypeSizeU3D1542_tCF8BB4A0E0ACEF12093046EEA1C805C216790239 
 {
 	union
 	{
@@ -592,12 +592,12 @@ struct __StaticArrayInitTypeSizeU3D1518_t922A1AF6C5F9BAA092321CE07487D0483A2447F
 			{
 			};
 		};
-		uint8_t __StaticArrayInitTypeSizeU3D1518_t922A1AF6C5F9BAA092321CE07487D0483A2447F2__padding[1518];
+		uint8_t __StaticArrayInitTypeSizeU3D1542_tCF8BB4A0E0ACEF12093046EEA1C805C216790239__padding[1542];
 	};
 };
 #pragma pack(pop, tp)
 #pragma pack(push, tp, 1)
-struct __StaticArrayInitTypeSizeU3D2663_t16EB6F5B9354B9EA428DE9F3112001ED074FFD98 
+struct __StaticArrayInitTypeSizeU3D2730_tC5DC65D67FCF508E754F1544812ACA35930B1D7C 
 {
 	union
 	{
@@ -607,7 +607,7 @@ struct __StaticArrayInitTypeSizeU3D2663_t16EB6F5B9354B9EA428DE9F3112001ED074FFD9
 			{
 			};
 		};
-		uint8_t __StaticArrayInitTypeSizeU3D2663_t16EB6F5B9354B9EA428DE9F3112001ED074FFD98__padding[2663];
+		uint8_t __StaticArrayInitTypeSizeU3D2730_tC5DC65D67FCF508E754F1544812ACA35930B1D7C__padding[2730];
 	};
 };
 #pragma pack(pop, tp)
@@ -1661,8 +1661,8 @@ struct List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918_StaticFields
 };
 struct U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA_StaticFields
 {
-	__StaticArrayInitTypeSizeU3D1518_t922A1AF6C5F9BAA092321CE07487D0483A2447F2 ___257436F2511854EF0C12986F4E81C5C4BF9EF1061EA5471CC855BD8A09301989;
-	__StaticArrayInitTypeSizeU3D2663_t16EB6F5B9354B9EA428DE9F3112001ED074FFD98 ___874DD0D8111C5AE3DFC11E2CB4B0B15B3CD398CFD91A249D74BD3E0F6362B191;
+	__StaticArrayInitTypeSizeU3D2730_tC5DC65D67FCF508E754F1544812ACA35930B1D7C ___16C87DE5976FEEA7B38E026C41BF1EA3914FFCECC4D0059B1D1DE65AB2450659;
+	__StaticArrayInitTypeSizeU3D1542_tCF8BB4A0E0ACEF12093046EEA1C805C216790239 ___3476551FC72012C0EE0664FEC26B60E46E94C194615E8B6D6A6E0D0720CD6661;
 };
 struct TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D_StaticFields
 {
@@ -2252,7 +2252,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 111803
+// Method Definition Index: 111806
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_Awake_m29C1DE789B968D726EDD69F605321A223D47C1A0 (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2262,16 +2262,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_Awake_m29C1DE789B968D726EDD69
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:22>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:22>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_TextComponent = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_0);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:23>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:23>
 		return;
 	}
 }
-// Method Definition Index: 111804
+// Method Definition Index: 111807
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_OnEnable_mE3719F01B6A8590066988F425F8A63103B5A7B47 (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2284,18 +2284,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_OnEnable_mE3719F01B6A85900669
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:28>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:28>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexZoom_ON_TEXT_CHANGED_mFF049D0455A7DD19D6BDACBEEB737B4AAE32DDA7_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6(L_0, L_1, FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:29>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:29>
 		return;
 	}
 }
-// Method Definition Index: 111805
+// Method Definition Index: 111808
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_OnDisable_mBB91C9EFA049395743D27358A427BB2B05850B47 (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2308,31 +2308,31 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_OnDisable_mBB91C9EFA049395743
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:34>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:34>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexZoom_ON_TEXT_CHANGED_mFF049D0455A7DD19D6BDACBEEB737B4AAE32DDA7_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F(L_0, L_1, FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:35>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:35>
 		return;
 	}
 }
-// Method Definition Index: 111806
+// Method Definition Index: 111809
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_Start_mB03D03148C98EBC9117D69510D24F21978546FCB (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:40>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:40>
 		RuntimeObject* L_0;
 		L_0 = VertexZoom_AnimateVertexColors_m632BD9DC8FB193AF2D5B540524B11AF139FDF5F0(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:41>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:41>
 		return;
 	}
 }
-// Method Definition Index: 111807
+// Method Definition Index: 111810
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_ON_TEXT_CHANGED_mFF049D0455A7DD19D6BDACBEEB737B4AAE32DDA7 (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2342,7 +2342,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_ON_TEXT_CHANGED_mFF049D0455A7
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:46>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:46>
 		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_0 = ___0_obj;
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = __this->___m_TextComponent;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -2354,17 +2354,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom_ON_TEXT_CHANGED_mFF049D0455A7
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:47>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:47>
 		__this->___hasTextChanged = (bool)1;
 	}
 
 IL_0015:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:48>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:48>
 		return;
 	}
 }
-// Method Definition Index: 111808
+// Method Definition Index: 111811
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* VertexZoom_AnimateVertexColors_m632BD9DC8FB193AF2D5B540524B11AF139FDF5F0 (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2383,15 +2383,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* VertexZoom_AnimateVertexColors
 		return L_1;
 	}
 }
-// Method Definition Index: 111809
+// Method Definition Index: 111812
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom__ctor_m454AF80ACB5C555BCB4B5E658A22B5A4FCC39422 (VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:12>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:12>
 		__this->___AngleMultiplier = (1.0f);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:13>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:13>
 		__this->___SpeedMultiplier = (1.0f);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:14>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:14>
 		__this->___CurveScale = (1.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -2405,7 +2405,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexZoom__ctor_m454AF80ACB5C555BCB4B5E
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 111810
+// Method Definition Index: 111813
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass10_0__ctor_m8C69A89B34AA3D16243E69F1E0015856C791CC8A (U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2413,7 +2413,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass10_0__ctor_m8C69A89
 		return;
 	}
 }
-// Method Definition Index: 111811
+// Method Definition Index: 111814
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t U3CU3Ec__DisplayClass10_0_U3CAnimateVertexColorsU3Eb__0_m8E51A05E012CCFA439DCF10A8B5C4FA196E4344A (U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* __this, int32_t ___0_a, int32_t ___1_b, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2424,7 +2424,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t U3CU3Ec__DisplayClass10_0_U3CAnimateV
 	}
 	float V_0 = 0.0f;
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:175>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:175>
 		List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918* L_0 = __this->___modifiedCharScale;
 		int32_t L_1 = ___0_a;
 		NullCheck(L_0);
@@ -2449,7 +2449,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t U3CU3Ec__DisplayClass10_0_U3CAnimateV
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 111812
+// Method Definition Index: 111815
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CAnimateVertexColorsU3Ed__10__ctor_m7A5B8E07B89E628DB7119F7F61311165A2DBC4D6 (U3CAnimateVertexColorsU3Ed__10_t2EB585545BBB614E711BE1D5C7BF139053486123* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -2459,14 +2459,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CAnimateVertexColorsU3Ed__10__ctor_m7A
 		return;
 	}
 }
-// Method Definition Index: 111813
+// Method Definition Index: 111816
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CAnimateVertexColorsU3Ed__10_System_IDisposable_Dispose_m974E92A444C6343E94C76BB6CC6508F7AE4FD36E (U3CAnimateVertexColorsU3Ed__10_t2EB585545BBB614E711BE1D5C7BF139053486123* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 111814
+// Method Definition Index: 111817
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CAnimateVertexColorsU3Ed__10_MoveNext_m6DBC52A95A92A54A1801DC4CEE548FA568251D5E (U3CAnimateVertexColorsU3Ed__10_t2EB585545BBB614E711BE1D5C7BF139053486123* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2543,13 +2543,13 @@ IL_0022:
 		U3CU3Ec__DisplayClass10_0__ctor_m8C69A89B34AA3D16243E69F1E0015856C791CC8A(L_3, NULL);
 		__this->___U3CU3E8__1 = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E8__1), (void*)L_3);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:59>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:59>
 		VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* L_4 = V_1;
 		NullCheck(L_4);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_5 = L_4->___m_TextComponent;
 		NullCheck(L_5);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_5, (bool)0, (bool)0);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:61>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:61>
 		VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* L_6 = V_1;
 		NullCheck(L_6);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_7 = L_6->___m_TextComponent;
@@ -2558,26 +2558,26 @@ IL_0022:
 		L_8 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_7, NULL);
 		__this->___U3CtextInfoU3E5__2 = L_8;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CtextInfoU3E5__2), (void*)L_8);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:64>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:64>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_9 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_9);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_10;
 		L_10 = TMP_TextInfo_CopyMeshInfoVertexData_mF66E2F8821470E68D95FEB53D456CFA86241C0CA(L_9, NULL);
 		__this->___U3CcachedMeshInfoVertexDataU3E5__3 = L_10;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CcachedMeshInfoVertexDataU3E5__3), (void*)L_10);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:67>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:67>
 		U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* L_11 = __this->___U3CU3E8__1;
 		List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918* L_12 = (List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918*)il2cpp_codegen_object_new(List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918_il2cpp_TypeInfo_var);
 		List_1__ctor_mC29D3D824786832A31096310B3B3016B8B42B802(L_12, List_1__ctor_mC29D3D824786832A31096310B3B3016B8B42B802_RuntimeMethod_var);
 		NullCheck(L_11);
 		L_11->___modifiedCharScale = L_12;
 		Il2CppCodeGenWriteBarrier((void**)(&L_11->___modifiedCharScale), (void*)L_12);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:68>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:68>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_13 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)il2cpp_codegen_object_new(List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73_il2cpp_TypeInfo_var);
 		List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8(L_13, List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8_RuntimeMethod_var);
 		__this->___U3CscaleSortingOrderU3E5__4 = L_13;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CscaleSortingOrderU3E5__4), (void*)L_13);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:70>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:70>
 		VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* L_14 = V_1;
 		NullCheck(L_14);
 		L_14->___hasTextChanged = (bool)1;
@@ -2585,7 +2585,7 @@ IL_0022:
 
 IL_0085:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:75>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:75>
 		VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* L_15 = V_1;
 		NullCheck(L_15);
 		bool L_16 = L_15->___hasTextChanged;
@@ -2595,14 +2595,14 @@ IL_0085:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:78>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:78>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_17 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_17);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_18;
 		L_18 = TMP_TextInfo_CopyMeshInfoVertexData_mF66E2F8821470E68D95FEB53D456CFA86241C0CA(L_17, NULL);
 		__this->___U3CcachedMeshInfoVertexDataU3E5__3 = L_18;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CcachedMeshInfoVertexDataU3E5__3), (void*)L_18);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:80>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:80>
 		VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* L_19 = V_1;
 		NullCheck(L_19);
 		L_19->___hasTextChanged = (bool)0;
@@ -2610,12 +2610,12 @@ IL_0085:
 
 IL_00a5:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:83>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:83>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_20 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_20);
 		int32_t L_21 = L_20->___characterCount;
 		V_3 = L_21;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:86>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:86>
 		int32_t L_22 = V_3;
 		if (L_22)
 		{
@@ -2623,7 +2623,7 @@ IL_00a5:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:88>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:88>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_23 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_23, (0.25f), NULL);
 		__this->___U3CU3E2__current = L_23;
@@ -2635,30 +2635,30 @@ IL_00a5:
 IL_00cd:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:89>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:89>
 		goto IL_0085;
 	}
 
 IL_00d6:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:93>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:93>
 		U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* L_24 = __this->___U3CU3E8__1;
 		NullCheck(L_24);
 		List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918* L_25 = L_24->___modifiedCharScale;
 		NullCheck(L_25);
 		List_1_Clear_m6CD2E5AAE6552A27AECCC57936767B4DCFC902B1_inline(L_25, List_1_Clear_m6CD2E5AAE6552A27AECCC57936767B4DCFC902B1_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:94>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:94>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_26 = __this->___U3CscaleSortingOrderU3E5__4;
 		NullCheck(L_26);
 		List_1_Clear_mF6795DE5F49C1D0B91D6A0955F448B22970D67A9_inline(L_26, List_1_Clear_mF6795DE5F49C1D0B91D6A0955F448B22970D67A9_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:96>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:96>
 		V_4 = 0;
 		goto IL_045a;
 	}
 
 IL_00f9:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:98>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:98>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_27 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_27);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_28 = L_27->___characterInfo;
@@ -2666,7 +2666,7 @@ IL_00f9:
 		NullCheck(L_28);
 		int32_t L_30 = L_29;
 		TMP_CharacterInfo_t8B8FF32D6AACE251F2E7835AA5BC6608D535D9F8 L_31 = (L_28)->GetAt(static_cast<il2cpp_array_size_t>(L_30));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:101>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:101>
 		bool L_32 = L_31.___isVisible;
 		if (!L_32)
 		{
@@ -2674,7 +2674,7 @@ IL_00f9:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:105>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:105>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_33 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_33);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_34 = L_33->___characterInfo;
@@ -2682,7 +2682,7 @@ IL_00f9:
 		NullCheck(L_34);
 		int32_t L_36 = ((L_34)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_35)))->___materialReferenceIndex;
 		V_5 = L_36;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:108>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:108>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_37 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_37);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_38 = L_37->___characterInfo;
@@ -2690,13 +2690,13 @@ IL_00f9:
 		NullCheck(L_38);
 		int32_t L_40 = ((L_38)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_39)))->___vertexIndex;
 		V_6 = L_40;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:111>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:111>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_41 = __this->___U3CcachedMeshInfoVertexDataU3E5__3;
 		int32_t L_42 = V_5;
 		NullCheck(L_41);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_43 = ((L_41)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_42)))->___vertices;
 		V_7 = L_43;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:116>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:116>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_44 = V_7;
 		int32_t L_45 = V_6;
 		NullCheck(L_44);
@@ -2713,11 +2713,11 @@ IL_00f9:
 		L_53 = Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline(L_52, (2.0f), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_54;
 		L_54 = Vector2_op_Implicit_mE8EBEE9291F11BB02F062D6E000F4798968CBD96_inline(L_53, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:120>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:120>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_55;
 		L_55 = Vector2_op_Implicit_m6D9CABB2C791A192867D7A4559D132BE86DD3EB7_inline(L_54, NULL);
 		V_8 = L_55;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:122>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:122>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_56 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_56);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_57 = L_56->___meshInfo;
@@ -2725,7 +2725,7 @@ IL_00f9:
 		NullCheck(L_57);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_59 = ((L_57)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_58)))->___vertices;
 		V_9 = L_59;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:124>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:124>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_60 = V_9;
 		int32_t L_61 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_62 = V_7;
@@ -2738,7 +2738,7 @@ IL_00f9:
 		L_67 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_65, L_66, NULL);
 		NullCheck(L_60);
 		(L_60)->SetAt(static_cast<il2cpp_array_size_t>(L_61), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_67);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:125>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:125>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_68 = V_9;
 		int32_t L_69 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_70 = V_7;
@@ -2751,7 +2751,7 @@ IL_00f9:
 		L_75 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_73, L_74, NULL);
 		NullCheck(L_68);
 		(L_68)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_69, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_75);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:126>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:126>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_76 = V_9;
 		int32_t L_77 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_78 = V_7;
@@ -2764,7 +2764,7 @@ IL_00f9:
 		L_83 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_81, L_82, NULL);
 		NullCheck(L_76);
 		(L_76)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_77, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_83);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:127>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:127>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_84 = V_9;
 		int32_t L_85 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_86 = V_7;
@@ -2777,18 +2777,18 @@ IL_00f9:
 		L_91 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_89, L_90, NULL);
 		NullCheck(L_84);
 		(L_84)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_85, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_91);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:132>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:132>
 		float L_92;
 		L_92 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((1.0f), (1.5f), NULL);
 		V_10 = L_92;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:135>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:135>
 		U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* L_93 = __this->___U3CU3E8__1;
 		NullCheck(L_93);
 		List_1_t0D1C46FD8DDDE974D93CA4F3474EEC05AF950918* L_94 = L_93->___modifiedCharScale;
 		float L_95 = V_10;
 		NullCheck(L_94);
 		List_1_Add_m2F86E252D086E288E02FA1C830B7E86C0A431E51_inline(L_94, L_95, List_1_Add_m2F86E252D086E288E02FA1C830B7E86C0A431E51_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:136>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:136>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_96 = __this->___U3CscaleSortingOrderU3E5__4;
 		U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* L_97 = __this->___U3CU3E8__1;
 		NullCheck(L_97);
@@ -2798,7 +2798,7 @@ IL_00f9:
 		L_99 = List_1_get_Count_m545762F67009314D9C63DD209B42FFF950569B05_inline(L_98, List_1_get_Count_m545762F67009314D9C63DD209B42FFF950569B05_RuntimeMethod_var);
 		NullCheck(L_96);
 		List_1_Add_m0248A96C5334E9A93E6994B7780478BCD994EA3D_inline(L_96, ((int32_t)il2cpp_codegen_subtract(L_99, 1)), List_1_Add_m0248A96C5334E9A93E6994B7780478BCD994EA3D_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:140>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:140>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_100;
 		memset((&L_100), 0, sizeof(L_100));
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_100), (0.0f), (0.0f), (0.0f), NULL);
@@ -2812,7 +2812,7 @@ IL_00f9:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_105;
 		L_105 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3(L_100, L_101, L_104, NULL);
 		V_2 = L_105;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:142>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:142>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_106 = V_9;
 		int32_t L_107 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_108 = V_9;
@@ -2824,7 +2824,7 @@ IL_00f9:
 		L_112 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_2), L_111, NULL);
 		NullCheck(L_106);
 		(L_106)->SetAt(static_cast<il2cpp_array_size_t>(L_107), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_112);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:143>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:143>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_113 = V_9;
 		int32_t L_114 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_115 = V_9;
@@ -2836,7 +2836,7 @@ IL_00f9:
 		L_119 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_2), L_118, NULL);
 		NullCheck(L_113);
 		(L_113)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_114, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_119);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:144>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:144>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_120 = V_9;
 		int32_t L_121 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_122 = V_9;
@@ -2848,7 +2848,7 @@ IL_00f9:
 		L_126 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_2), L_125, NULL);
 		NullCheck(L_120);
 		(L_120)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_121, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_126);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:145>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:145>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_127 = V_9;
 		int32_t L_128 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_129 = V_9;
@@ -2860,7 +2860,7 @@ IL_00f9:
 		L_133 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_2), L_132, NULL);
 		NullCheck(L_127);
 		(L_127)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_128, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_133);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:147>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:147>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_134 = V_9;
 		int32_t L_135 = V_6;
 		NullCheck(L_134);
@@ -2870,7 +2870,7 @@ IL_00f9:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_139;
 		L_139 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_137, L_138, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_136 = L_139;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:148>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:148>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_140 = V_9;
 		int32_t L_141 = V_6;
 		NullCheck(L_140);
@@ -2880,7 +2880,7 @@ IL_00f9:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_145;
 		L_145 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_143, L_144, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_142 = L_145;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:149>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:149>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_146 = V_9;
 		int32_t L_147 = V_6;
 		NullCheck(L_146);
@@ -2890,7 +2890,7 @@ IL_00f9:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_151;
 		L_151 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_149, L_150, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_148 = L_151;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:150>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:150>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_152 = V_9;
 		int32_t L_153 = V_6;
 		NullCheck(L_152);
@@ -2900,20 +2900,20 @@ IL_00f9:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_157;
 		L_157 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_155, L_156, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_154 = L_157;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:153>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:153>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_158 = __this->___U3CcachedMeshInfoVertexDataU3E5__3;
 		int32_t L_159 = V_5;
 		NullCheck(L_158);
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_160 = ((L_158)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_159)))->___uvs0;
 		V_11 = L_160;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:154>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:154>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_161 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_161);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_162 = L_161->___meshInfo;
 		int32_t L_163 = V_5;
 		NullCheck(L_162);
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_164 = ((L_162)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_163)))->___uvs0;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:156>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:156>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_165 = L_164;
 		int32_t L_166 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_167 = V_11;
@@ -2923,7 +2923,7 @@ IL_00f9:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_170 = (L_167)->GetAt(static_cast<il2cpp_array_size_t>(L_169));
 		NullCheck(L_165);
 		(L_165)->SetAt(static_cast<il2cpp_array_size_t>(L_166), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_170);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:157>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:157>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_171 = L_165;
 		int32_t L_172 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_173 = V_11;
@@ -2933,7 +2933,7 @@ IL_00f9:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_176 = (L_173)->GetAt(static_cast<il2cpp_array_size_t>(L_175));
 		NullCheck(L_171);
 		(L_171)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_172, 1))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_176);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:158>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:158>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_177 = L_171;
 		int32_t L_178 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_179 = V_11;
@@ -2943,7 +2943,7 @@ IL_00f9:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_182 = (L_179)->GetAt(static_cast<il2cpp_array_size_t>(L_181));
 		NullCheck(L_177);
 		(L_177)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_178, 2))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_182);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:159>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:159>
 		int32_t L_183 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_184 = V_11;
 		int32_t L_185 = V_6;
@@ -2952,20 +2952,20 @@ IL_00f9:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_187 = (L_184)->GetAt(static_cast<il2cpp_array_size_t>(L_186));
 		NullCheck(L_177);
 		(L_177)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_183, 3))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_187);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:162>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:162>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_188 = __this->___U3CcachedMeshInfoVertexDataU3E5__3;
 		int32_t L_189 = V_5;
 		NullCheck(L_188);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_190 = ((L_188)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_189)))->___colors32;
 		V_12 = L_190;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:163>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:163>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_191 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_191);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_192 = L_191->___meshInfo;
 		int32_t L_193 = V_5;
 		NullCheck(L_192);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_194 = ((L_192)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_193)))->___colors32;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:165>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:165>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_195 = L_194;
 		int32_t L_196 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_197 = V_12;
@@ -2975,7 +2975,7 @@ IL_00f9:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_200 = (L_197)->GetAt(static_cast<il2cpp_array_size_t>(L_199));
 		NullCheck(L_195);
 		(L_195)->SetAt(static_cast<il2cpp_array_size_t>(L_196), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_200);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:166>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:166>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_201 = L_195;
 		int32_t L_202 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_203 = V_12;
@@ -2985,7 +2985,7 @@ IL_00f9:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_206 = (L_203)->GetAt(static_cast<il2cpp_array_size_t>(L_205));
 		NullCheck(L_201);
 		(L_201)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_202, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_206);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:167>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:167>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_207 = L_201;
 		int32_t L_208 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_209 = V_12;
@@ -2995,7 +2995,7 @@ IL_00f9:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_212 = (L_209)->GetAt(static_cast<il2cpp_array_size_t>(L_211));
 		NullCheck(L_207);
 		(L_207)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_208, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_212);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:168>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:168>
 		int32_t L_213 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_214 = V_12;
 		int32_t L_215 = V_6;
@@ -3008,14 +3008,14 @@ IL_00f9:
 
 IL_0454:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:96>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:96>
 		int32_t L_218 = V_4;
 		V_4 = ((int32_t)il2cpp_codegen_add(L_218, 1));
 	}
 
 IL_045a:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:96>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:96>
 		int32_t L_219 = V_4;
 		int32_t L_220 = V_3;
 		if ((((int32_t)L_219) < ((int32_t)L_220)))
@@ -3024,14 +3024,14 @@ IL_045a:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:172>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:172>
 		V_13 = 0;
 		goto IL_0586;
 	}
 
 IL_046a:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:175>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:175>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_221 = __this->___U3CscaleSortingOrderU3E5__4;
 		U3CU3Ec__DisplayClass10_0_t62C0E1CEED92DDFC3DD4C58EC8806FC7D82A7FB7* L_222 = __this->___U3CU3E8__1;
 		NullCheck(L_222);
@@ -3065,7 +3065,7 @@ IL_04a0:
 	{
 		NullCheck(G_B16_1);
 		List_1_Sort_m90CDC07AEBE737318A490F4C2BC6F2955443EDA4(G_B16_1, G_B16_0, List_1_Sort_m90CDC07AEBE737318A490F4C2BC6F2955443EDA4_RuntimeMethod_var);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:177>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:177>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_230 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_230);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_231 = L_230->___meshInfo;
@@ -3074,7 +3074,7 @@ IL_04a0:
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_233 = __this->___U3CscaleSortingOrderU3E5__4;
 		il2cpp_codegen_runtime_class_init_inline(TMP_MeshInfo_t320C52212E9D672EBB5F5C18C3E0700AA33DD76B_il2cpp_TypeInfo_var);
 		TMP_MeshInfo_SortGeometry_m74ED0FE2065414A659EE9A9C809E1B0B4A8A7734(((L_231)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_232))), L_233, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:180>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:180>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_234 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_234);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_235 = L_234->___meshInfo;
@@ -3089,7 +3089,7 @@ IL_04a0:
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_241 = ((L_239)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_240)))->___vertices;
 		NullCheck(L_237);
 		Mesh_set_vertices_m5BB814D89E9ACA00DBF19F7D8E22CB73AC73FE5C(L_237, L_241, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:181>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:181>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_242 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_242);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_243 = L_242->___meshInfo;
@@ -3104,7 +3104,7 @@ IL_04a0:
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_249 = ((L_247)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_248)))->___uvs0;
 		NullCheck(L_245);
 		Mesh_SetUVs_mDFA98E5557AB6585FE0F8AB5C9286D1C69A53324(L_245, 0, L_249, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:182>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:182>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_250 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_250);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_251 = L_250->___meshInfo;
@@ -3119,7 +3119,7 @@ IL_04a0:
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_257 = ((L_255)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_256)))->___colors32;
 		NullCheck(L_253);
 		Mesh_set_colors32_m0E4462B7A1D613E6FB15DD7584BCE5491C17820F(L_253, L_257, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:184>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:184>
 		VertexZoom_t51F05EB153497034D27896F07590D790A73981A6* L_258 = V_1;
 		NullCheck(L_258);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_259 = L_258->___m_TextComponent;
@@ -3132,14 +3132,14 @@ IL_04a0:
 		int32_t L_264 = V_13;
 		NullCheck(L_259);
 		VirtualActionInvoker2< Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4*, int32_t >::Invoke(107, L_259, L_263, L_264);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:172>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:172>
 		int32_t L_265 = V_13;
 		V_13 = ((int32_t)il2cpp_codegen_add(L_265, 1));
 	}
 
 IL_0586:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:172>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:172>
 		int32_t L_266 = V_13;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_267 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_267);
@@ -3151,7 +3151,7 @@ IL_0586:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:187>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:187>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_269 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_269, (0.100000001f), NULL);
 		__this->___U3CU3E2__current = L_269;
@@ -3163,11 +3163,11 @@ IL_0586:
 IL_05b3:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:72>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs:72>
 		goto IL_0085;
 	}
 }
-// Method Definition Index: 111815
+// Method Definition Index: 111818
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CAnimateVertexColorsU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m110CD16E89E725B1484D24FFB1753768F78A988B (U3CAnimateVertexColorsU3Ed__10_t2EB585545BBB614E711BE1D5C7BF139053486123* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3175,7 +3175,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CAnimateVertexColorsU3Ed__10
 		return L_0;
 	}
 }
-// Method Definition Index: 111816
+// Method Definition Index: 111819
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CAnimateVertexColorsU3Ed__10_System_Collections_IEnumerator_Reset_mDE5E71C88F5096FD70EB061287ADF0B847732821 (U3CAnimateVertexColorsU3Ed__10_t2EB585545BBB614E711BE1D5C7BF139053486123* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3184,7 +3184,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CAnimateVertexColorsU3Ed__10_System_Co
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CAnimateVertexColorsU3Ed__10_System_Collections_IEnumerator_Reset_mDE5E71C88F5096FD70EB061287ADF0B847732821_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 111817
+// Method Definition Index: 111820
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CAnimateVertexColorsU3Ed__10_System_Collections_IEnumerator_get_Current_m14B89756695EE73AEBB6F3A613F65E1343A8CC2C (U3CAnimateVertexColorsU3Ed__10_t2EB585545BBB614E711BE1D5C7BF139053486123* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3200,7 +3200,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CAnimateVertexColorsU3Ed__10
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 111818
+// Method Definition Index: 111821
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample_Awake_m92842E51B4DBB2E4341ACB179468049FAB23949F (WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3210,7 +3210,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample_Awake_m92842E51B4DBB2E43
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:20>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:20>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -3218,24 +3218,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample_Awake_m92842E51B4DBB2E43
 		L_1 = GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3(L_0, GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3_RuntimeMethod_var);
 		__this->___m_TextComponent = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_1);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:21>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:21>
 		return;
 	}
 }
-// Method Definition Index: 111819
+// Method Definition Index: 111822
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample_Start_m3339EDC03B6FC498916520CBCCDB5F9FA090F809 (WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:26>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:26>
 		RuntimeObject* L_0;
 		L_0 = WarpTextExample_WarpText_mBE4B6E5B6D8AAE9340CD59B1FA9DFE9A34665E98(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:27>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:27>
 		return;
 	}
 }
-// Method Definition Index: 111820
+// Method Definition Index: 111823
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* WarpTextExample_CopyAnimationCurve_m65A93388CC2CF58CD2E08CC8EF682A2C97C558FF (WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* __this, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* ___0_curve, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3245,10 +3245,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD9991
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:32>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:32>
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_0 = (AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*)il2cpp_codegen_object_new(AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354_il2cpp_TypeInfo_var);
 		AnimationCurve__ctor_m0D976567166F92383307DC8EB8D7082CD34E226F(L_0, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:34>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:34>
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_1 = L_0;
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_2 = ___0_curve;
 		NullCheck(L_2);
@@ -3256,11 +3256,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD9991
 		L_3 = AnimationCurve_get_keys_m34452C69464AB459C04BFFEA4F541F06B419AC4E(L_2, NULL);
 		NullCheck(L_1);
 		AnimationCurve_set_keys_mBE1284B44CDBB1D8381177A3D581A6E71467F95C(L_1, L_3, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:36>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:36>
 		return L_1;
 	}
 }
-// Method Definition Index: 111821
+// Method Definition Index: 111824
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* WarpTextExample_WarpText_mBE4B6E5B6D8AAE9340CD59B1FA9DFE9A34665E98 (WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3279,7 +3279,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* WarpTextExample_WarpText_mBE4B
 		return L_1;
 	}
 }
-// Method Definition Index: 111822
+// Method Definition Index: 111825
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample__ctor_mBD48A5403123F25C45B5E60C19E1EA397FBA1795 (WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3290,7 +3290,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample__ctor_mBD48A5403123F25C4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:13>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:13>
 		KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3* L_0 = (KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3*)(KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3*)SZArrayNew(KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3_il2cpp_TypeInfo_var, (uint32_t)5);
 		KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3* L_1 = L_0;
 		Keyframe_tB9C67DCBFE10C0AE9C52CB5C66E944255C9254F0 L_2;
@@ -3326,11 +3326,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample__ctor_mBD48A5403123F25C4
 		AnimationCurve__ctor_mEABC98C03805713354D61E50D9340766BD5B717E(L_11, L_9, NULL);
 		__this->___VertexCurve = L_11;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___VertexCurve), (void*)L_11);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:14>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:14>
 		__this->___AngleMultiplier = (1.0f);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:15>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:15>
 		__this->___SpeedMultiplier = (1.0f);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:16>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:16>
 		__this->___CurveScale = (1.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -3344,7 +3344,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WarpTextExample__ctor_mBD48A5403123F25C4
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 111823
+// Method Definition Index: 111826
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWarpTextU3Ed__8__ctor_m1943C34BBEAF121203BA8C5D725E991283A4A3BB (U3CWarpTextU3Ed__8_tF1A14DF86D48AE9144155D4BF8E31E63471F358E* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -3354,14 +3354,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWarpTextU3Ed__8__ctor_m1943C34BBEAF12
 		return;
 	}
 }
-// Method Definition Index: 111824
+// Method Definition Index: 111827
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWarpTextU3Ed__8_System_IDisposable_Dispose_m145D2DA1026419984AD79D5D62FBC38C9441AB53 (U3CWarpTextU3Ed__8_tF1A14DF86D48AE9144155D4BF8E31E63471F358E* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 111825
+// Method Definition Index: 111828
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4854C2C509C77BD18F5A9B6D691B02 (U3CWarpTextU3Ed__8_tF1A14DF86D48AE9144155D4BF8E31E63471F358E* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3424,37 +3424,37 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:47>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:47>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_3 = V_1;
 		NullCheck(L_3);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_4 = L_3->___VertexCurve;
 		NullCheck(L_4);
 		AnimationCurve_set_preWrapMode_mA618E67F536483FA5F3507A2D97C045E089D1B2D(L_4, 1, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:48>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:48>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_5 = V_1;
 		NullCheck(L_5);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_6 = L_5->___VertexCurve;
 		NullCheck(L_6);
 		AnimationCurve_set_postWrapMode_m39A4758ABD5D2AEE475940829352792FE7E9CBA9(L_6, 1, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:55>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:55>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_7 = V_1;
 		NullCheck(L_7);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_8 = L_7->___m_TextComponent;
 		NullCheck(L_8);
 		TMP_Text_set_havePropertiesChanged_mA38D7BC9E260BF29450738B827F2220A05662B31(L_8, (bool)1, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:56>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:56>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_9 = V_1;
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_10 = V_1;
 		NullCheck(L_10);
 		float L_11 = L_10->___CurveScale;
 		NullCheck(L_9);
 		L_9->___CurveScale = ((float)il2cpp_codegen_multiply(L_11, (10.0f)));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:57>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:57>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_12 = V_1;
 		NullCheck(L_12);
 		float L_13 = L_12->___CurveScale;
 		__this->___U3Cold_CurveScaleU3E5__2 = L_13;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:58>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:58>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_14 = V_1;
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_15 = V_1;
 		NullCheck(L_15);
@@ -3468,7 +3468,7 @@ IL_0022:
 
 IL_007d:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:62>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:62>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_18 = V_1;
 		NullCheck(L_18);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_19 = L_18->___m_TextComponent;
@@ -3513,7 +3513,7 @@ IL_007d:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:64>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:64>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -3523,18 +3523,18 @@ IL_007d:
 IL_00d6:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:65>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:65>
 		goto IL_007d;
 	}
 
 IL_00df:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:68>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:68>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_31 = V_1;
 		NullCheck(L_31);
 		float L_32 = L_31->___CurveScale;
 		__this->___U3Cold_CurveScaleU3E5__2 = L_32;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:69>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:69>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_33 = V_1;
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_34 = V_1;
 		NullCheck(L_34);
@@ -3544,13 +3544,13 @@ IL_00df:
 		L_36 = WarpTextExample_CopyAnimationCurve_m65A93388CC2CF58CD2E08CC8EF682A2C97C558FF(L_33, L_35, NULL);
 		__this->___U3Cold_curveU3E5__3 = L_36;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3Cold_curveU3E5__3), (void*)L_36);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:71>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:71>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_37 = V_1;
 		NullCheck(L_37);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_38 = L_37->___m_TextComponent;
 		NullCheck(L_38);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_38, (bool)0, (bool)0);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:73>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:73>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_39 = V_1;
 		NullCheck(L_39);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_40 = L_39->___m_TextComponent;
@@ -3558,12 +3558,12 @@ IL_00df:
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_41;
 		L_41 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_40, NULL);
 		V_4 = L_41;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:74>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:74>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_42 = V_4;
 		NullCheck(L_42);
 		int32_t L_43 = L_42->___characterCount;
 		V_5 = L_43;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:77>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:77>
 		int32_t L_44 = V_5;
 		if (!L_44)
 		{
@@ -3571,7 +3571,7 @@ IL_00df:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:82>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:82>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_45 = V_1;
 		NullCheck(L_45);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_46 = L_45->___m_TextComponent;
@@ -3583,7 +3583,7 @@ IL_00df:
 		L_48 = Bounds_get_min_m465AC9BBE1DE5D8E8AD95AC19B9899068FEEBB13_inline((&V_8), NULL);
 		float L_49 = L_48.___x;
 		V_6 = L_49;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:83>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:83>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_50 = V_1;
 		NullCheck(L_50);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_51 = L_50->___m_TextComponent;
@@ -3595,14 +3595,14 @@ IL_00df:
 		L_53 = Bounds_get_max_m6446F2AB97C1E57CA89467B9DE52D4EB61F1CB09_inline((&V_8), NULL);
 		float L_54 = L_53.___x;
 		V_7 = L_54;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:87>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:87>
 		V_9 = 0;
 		goto IL_0446;
 	}
 
 IL_0165:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:89>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:89>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_55 = V_4;
 		NullCheck(L_55);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_56 = L_55->___characterInfo;
@@ -3615,7 +3615,7 @@ IL_0165:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:92>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:92>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_59 = V_4;
 		NullCheck(L_59);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_60 = L_59->___characterInfo;
@@ -3623,7 +3623,7 @@ IL_0165:
 		NullCheck(L_60);
 		int32_t L_62 = ((L_60)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_61)))->___vertexIndex;
 		V_10 = L_62;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:95>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:95>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_63 = V_4;
 		NullCheck(L_63);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_64 = L_63->___characterInfo;
@@ -3631,7 +3631,7 @@ IL_0165:
 		NullCheck(L_64);
 		int32_t L_66 = ((L_64)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_65)))->___materialReferenceIndex;
 		V_11 = L_66;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:97>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:97>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_67 = V_4;
 		NullCheck(L_67);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_68 = L_67->___meshInfo;
@@ -3639,7 +3639,7 @@ IL_0165:
 		NullCheck(L_68);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_70 = ((L_68)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_69)))->___vertices;
 		V_2 = L_70;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:100>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:100>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_71 = V_2;
 		int32_t L_72 = V_10;
 		NullCheck(L_71);
@@ -3660,7 +3660,7 @@ IL_0165:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_82;
 		L_82 = Vector2_op_Implicit_m6D9CABB2C791A192867D7A4559D132BE86DD3EB7_inline(L_81, NULL);
 		V_12 = L_82;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:104>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:104>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_83 = V_2;
 		int32_t L_84 = V_10;
 		NullCheck(L_83);
@@ -3672,7 +3672,7 @@ IL_0165:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_89;
 		L_89 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_86, L_88, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_85 = L_89;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:105>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:105>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_90 = V_2;
 		int32_t L_91 = V_10;
 		NullCheck(L_90);
@@ -3684,7 +3684,7 @@ IL_0165:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_96;
 		L_96 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_93, L_95, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_92 = L_96;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:106>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:106>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_97 = V_2;
 		int32_t L_98 = V_10;
 		NullCheck(L_97);
@@ -3696,7 +3696,7 @@ IL_0165:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_103;
 		L_103 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_100, L_102, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_99 = L_103;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:107>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:107>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_104 = V_2;
 		int32_t L_105 = V_10;
 		NullCheck(L_104);
@@ -3708,17 +3708,17 @@ IL_0165:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_110;
 		L_110 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_107, L_109, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_106 = L_110;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:110>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:110>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_111 = V_12;
 		float L_112 = L_111.___x;
 		float L_113 = V_6;
 		float L_114 = V_7;
 		float L_115 = V_6;
 		V_13 = ((float)(((float)il2cpp_codegen_subtract(L_112, L_113))/((float)il2cpp_codegen_subtract(L_114, L_115))));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:111>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:111>
 		float L_116 = V_13;
 		V_14 = ((float)il2cpp_codegen_add(L_116, (9.99999975E-05f)));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:112>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:112>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_117 = V_1;
 		NullCheck(L_117);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_118 = L_117->___VertexCurve;
@@ -3730,7 +3730,7 @@ IL_0165:
 		NullCheck(L_121);
 		float L_122 = L_121->___CurveScale;
 		V_15 = ((float)il2cpp_codegen_multiply(L_120, L_122));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:113>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:113>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_123 = V_1;
 		NullCheck(L_123);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_124 = L_123->___VertexCurve;
@@ -3742,11 +3742,11 @@ IL_0165:
 		NullCheck(L_127);
 		float L_128 = L_127->___CurveScale;
 		V_16 = ((float)il2cpp_codegen_multiply(L_126, L_128));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:115>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:115>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_129;
 		memset((&L_129), 0, sizeof(L_129));
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_129), (1.0f), (0.0f), (0.0f), NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:117>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:117>
 		float L_130 = V_14;
 		float L_131 = V_7;
 		float L_132 = V_6;
@@ -3764,7 +3764,7 @@ IL_0165:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_140;
 		L_140 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_135, L_139, NULL);
 		V_17 = L_140;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:119>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:119>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_141 = L_129;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_142;
 		L_142 = Vector3_get_normalized_m736BBF65D5CDA7A18414370D15B4DFCC1E466F07_inline((&V_17), NULL);
@@ -3773,11 +3773,11 @@ IL_0165:
 		float L_144;
 		L_144 = acosf(L_143);
 		V_18 = ((float)il2cpp_codegen_multiply(L_144, (57.2957802f)));
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:120>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:120>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_145 = V_17;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_146;
 		L_146 = Vector3_Cross_mF93A280558BCE756D13B6CC5DCD7DE8A43148987_inline(L_141, L_145, NULL);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:121>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:121>
 		float L_147 = L_146.___z;
 		if ((((float)L_147) > ((float)(0.0f))))
 		{
@@ -3799,7 +3799,7 @@ IL_0339:
 IL_033b:
 	{
 		V_19 = G_B14_0;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:123>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:123>
 		float L_150 = V_15;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_151;
 		memset((&L_151), 0, sizeof(L_151));
@@ -3812,7 +3812,7 @@ IL_033b:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_155;
 		L_155 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3(L_151, L_153, L_154, NULL);
 		V_3 = L_155;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:125>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:125>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_156 = V_2;
 		int32_t L_157 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_158 = V_2;
@@ -3824,7 +3824,7 @@ IL_033b:
 		L_162 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_3), L_161, NULL);
 		NullCheck(L_156);
 		(L_156)->SetAt(static_cast<il2cpp_array_size_t>(L_157), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_162);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:126>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:126>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_163 = V_2;
 		int32_t L_164 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_165 = V_2;
@@ -3836,7 +3836,7 @@ IL_033b:
 		L_169 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_3), L_168, NULL);
 		NullCheck(L_163);
 		(L_163)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_164, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_169);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:127>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:127>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_170 = V_2;
 		int32_t L_171 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_172 = V_2;
@@ -3848,7 +3848,7 @@ IL_033b:
 		L_176 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_3), L_175, NULL);
 		NullCheck(L_170);
 		(L_170)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_171, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_176);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:128>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:128>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_177 = V_2;
 		int32_t L_178 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_179 = V_2;
@@ -3860,7 +3860,7 @@ IL_033b:
 		L_183 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814((&V_3), L_182, NULL);
 		NullCheck(L_177);
 		(L_177)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_178, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_183);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:130>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:130>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_184 = V_2;
 		int32_t L_185 = V_10;
 		NullCheck(L_184);
@@ -3870,7 +3870,7 @@ IL_033b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_189;
 		L_189 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_187, L_188, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_186 = L_189;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:131>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:131>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_190 = V_2;
 		int32_t L_191 = V_10;
 		NullCheck(L_190);
@@ -3880,7 +3880,7 @@ IL_033b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_195;
 		L_195 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_193, L_194, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_192 = L_195;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:132>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:132>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_196 = V_2;
 		int32_t L_197 = V_10;
 		NullCheck(L_196);
@@ -3890,7 +3890,7 @@ IL_033b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_201;
 		L_201 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_199, L_200, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_198 = L_201;
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:133>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:133>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_202 = V_2;
 		int32_t L_203 = V_10;
 		NullCheck(L_202);
@@ -3904,14 +3904,14 @@ IL_033b:
 
 IL_0440:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:87>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:87>
 		int32_t L_208 = V_9;
 		V_9 = ((int32_t)il2cpp_codegen_add(L_208, 1));
 	}
 
 IL_0446:
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:87>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:87>
 		int32_t L_209 = V_9;
 		int32_t L_210 = V_5;
 		if ((((int32_t)L_209) < ((int32_t)L_210)))
@@ -3920,13 +3920,13 @@ IL_0446:
 		}
 	}
 	{
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:138>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:138>
 		WarpTextExample_tB54C406E58B9D90FC49CD73B5FBF7FAFCCD3CD7E* L_211 = V_1;
 		NullCheck(L_211);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_212 = L_211->___m_TextComponent;
 		NullCheck(L_212);
 		VirtualActionInvoker0::Invoke(109, L_212);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:140>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:140>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_213 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_213, (0.0250000004f), NULL);
 		__this->___U3CU3E2__current = L_213;
@@ -3938,11 +3938,11 @@ IL_0446:
 IL_0473:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 2/Prototype 2_Assembly/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:60>
+		//<source_info:/Users/devk/Documents/Semester 2 2025/DECO7230/Devkansana_DECO7230_2025/Prototype 3/Prototype 3_NewS/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs:60>
 		goto IL_007d;
 	}
 }
-// Method Definition Index: 111826
+// Method Definition Index: 111829
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWarpTextU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD80368E9B7E259311C03E406B75161ED6F7618E3 (U3CWarpTextU3Ed__8_tF1A14DF86D48AE9144155D4BF8E31E63471F358E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3950,7 +3950,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWarpTextU3Ed__8_System_Coll
 		return L_0;
 	}
 }
-// Method Definition Index: 111827
+// Method Definition Index: 111830
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42 (U3CWarpTextU3Ed__8_tF1A14DF86D48AE9144155D4BF8E31E63471F358E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3959,7 +3959,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWarpTextU3Ed__8_System_Collections_IE
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 111828
+// Method Definition Index: 111831
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19 (U3CWarpTextU3Ed__8_tF1A14DF86D48AE9144155D4BF8E31E63471F358E* __this, const RuntimeMethod* method) 
 {
 	{

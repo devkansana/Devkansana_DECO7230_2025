@@ -16,6 +16,9 @@ extern void PickUp__ctor_m441F0831F98EE45ECB49EC3B46CA8EDC4EDCE016 (void);
 extern void SimplePlayerMovement_Start_mAAE4AE43CC2476416B943483B6897D02C1274949 (void);
 extern void SimplePlayerMovement_Update_m41B7E256F6E0B6CF625D76588BFF03E03BB5D262 (void);
 extern void SimplePlayerMovement__ctor_mFC1BB022E34BF0BB15D96019E5FCCAC854193523 (void);
+extern void GhostCubeActivator_OnTriggerEnter_m6AA5E54681716A7A0D3817DC02C81D63655CECC7 (void);
+extern void GhostCubeActivator_OnTriggerExit_m61E988E0870D35A53E439F27E0F280BEDF489F68 (void);
+extern void GhostCubeActivator__ctor_mE5F85D824747A5C3A7BB28A3CDAC1EFE863ADC95 (void);
 extern void SnapInteractableVisuals_OnEnable_m424AAFFB39064CEDCBC8887D0ED9E9F6DCDEA228 (void);
 extern void SnapInteractableVisuals_WhenInteractorAdded_Action_mB7D1B046955B17EA02AE9529D0C73FFA902C896E (void);
 extern void SnapInteractableVisuals_SnapInteractable_WhenSelectingInteractorViewAdded_m9E6C50581CAAEA0770418E6CCAB428A3E8A3229C (void);
@@ -290,7 +293,7 @@ extern void U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4854C2C509C77BD18F5A9B6D691B0
 extern void U3CWarpTextU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD80368E9B7E259311C03E406B75161ED6F7618E3 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19 (void);
-static Il2CppMethodPointer s_methodPointers[283] = 
+static Il2CppMethodPointer s_methodPointers[286] = 
 {
 	PickUp_Start_m952DEDBA0592D0D16E942C6377ED2A428C44DDDE,
 	PickUp_Update_mD293ADF8FED516E5951B5415B05ABE95EDFF5191,
@@ -301,6 +304,9 @@ static Il2CppMethodPointer s_methodPointers[283] =
 	SimplePlayerMovement_Start_mAAE4AE43CC2476416B943483B6897D02C1274949,
 	SimplePlayerMovement_Update_m41B7E256F6E0B6CF625D76588BFF03E03BB5D262,
 	SimplePlayerMovement__ctor_mFC1BB022E34BF0BB15D96019E5FCCAC854193523,
+	GhostCubeActivator_OnTriggerEnter_m6AA5E54681716A7A0D3817DC02C81D63655CECC7,
+	GhostCubeActivator_OnTriggerExit_m61E988E0870D35A53E439F27E0F280BEDF489F68,
+	GhostCubeActivator__ctor_mE5F85D824747A5C3A7BB28A3CDAC1EFE863ADC95,
 	SnapInteractableVisuals_OnEnable_m424AAFFB39064CEDCBC8887D0ED9E9F6DCDEA228,
 	SnapInteractableVisuals_WhenInteractorAdded_Action_mB7D1B046955B17EA02AE9529D0C73FFA902C896E,
 	SnapInteractableVisuals_SnapInteractable_WhenSelectingInteractorViewAdded_m9E6C50581CAAEA0770418E6CCAB428A3E8A3229C,
@@ -576,7 +582,7 @@ static Il2CppMethodPointer s_methodPointers[283] =
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42,
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19,
 };
-static const int32_t s_InvokerIndices[283] = 
+static const int32_t s_InvokerIndices[286] = 
 {
 	17194,
 	17194,
@@ -586,6 +592,9 @@ static const int32_t s_InvokerIndices[283] =
 	17194,
 	17194,
 	17194,
+	17194,
+	13447,
+	13447,
 	17194,
 	17194,
 	13447,
@@ -866,7 +875,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	283,
+	286,
 	s_methodPointers,
 	0,
 	NULL,
